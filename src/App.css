@@ -6,7 +6,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  background-color: #3f3b38;
+  background-color: #524841;
   border-radius: 10px;}
   Newslatter:hover{
   background-color: #3f3b38;
@@ -30,7 +30,7 @@ nav ul{
    padding: 0;
    list-style: none;
    height: 36px;
-   background-color: rgb(31, 28, 28);
+   background-color: rgb(72, 54, 54);
    font-family: Arial, Helvetica, sans-serif;
    font-size: 13px;
    line-height: 36px;
@@ -100,13 +100,13 @@ button:focus-visible {
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
-    background-color: #524949;
+    background-color: #6d6e21;
   }
   a:hover {
     color: #747bff;
   }
   button {
-    background-color: #f9f9f9;
+    background-color: #034174;
   }
 }
 
